@@ -4,6 +4,7 @@ Creating ADR for scenario 2
 
 Architectural Decision Record (ADR) For Scenario 2
 Status: Proposed
+
 	Native, web, or hybrid app
 Decision: Native app. 
 Rationale: Native was selected to make certain effective maintenance, offline support, and development for both Android and iOS. This decision agrees to reduce development time and effort although having a regular user experience beyond several devices. 
