@@ -21,7 +21,7 @@ Rationale: Node.js was picked as the backend language because of its non-blockin
 Decision: Apply granular permissions
 Rationale: Granular permissions were applied to make sure that users have a suitable approach to data and features based on their functions and benefits surrounded by the university society. Permissions at the application level, privacy, and data security are increased for example using SSL/TLS protocols for the encryption of personal grade and student info. 
 
-Data Storage
+ Data Storage
 Decision: Use a blend of SQL and NoSQL databases
 Rationale: Using a blend of SQL and NoSQL databases was guided by the essentials to manage both structured and unstructured data effectively. SQL databases give relational data managing for structured info for example schedules and user profiles, in contrast, NoSQL databases suggest flexibility for storage of varied data types like assignment deadlines, announcements, and others.
 
